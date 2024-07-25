@@ -1,4 +1,4 @@
-#Find the sum of all the multiples of or below .
+#Find the sum of all the multiples of or below 1000.
 
 numb3 = 0
 numb5 = 0
